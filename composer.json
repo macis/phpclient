@@ -1,5 +1,6 @@
 {
     "name": "wilfried/phpclient",
+    "description": "Php/symfony client for Macis",
     "license": "proprietary",
     "type": "project",
     "autoload": {
